@@ -4,7 +4,7 @@
   "description": "HabiTrack is a habit tracking Application with multiple platform support. This repository cotnains the server component of the application.",
   "main": "app.js",
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0",
+    "@sendgrid/mail": "^8.0.0",
     "aws-sdk": "^2.855.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
